@@ -1,0 +1,19 @@
+{
+    "name": "SPC - Launch",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Cot4ekxgCkKCGnqos5nrCfScMDXPsGmviM9rxkoB3jCx",
+          "share": 100
+        }
+      ]
+    }
+  }

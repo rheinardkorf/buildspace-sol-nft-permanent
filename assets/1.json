@@ -1,0 +1,19 @@
+{
+    "name": "SPC - Pose",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Cot4ekxgCkKCGnqos5nrCfScMDXPsGmviM9rxkoB3jCx",
+          "share": 100
+        }
+      ]
+    }
+  }
